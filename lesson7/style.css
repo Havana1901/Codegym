@@ -1,0 +1,32 @@
+h1 {
+ text-align: center;
+    background-color: orange;
+
+}
+
+.hi {
+    color: orange;
+}
+
+.ahhh {
+    color: orange;
+}
+.hii {
+    vertical-align: top;
+}
+
+th , td {
+    border: 1px solid black;
+padding: 5px;
+
+
+    font-size: 2em;
+}
+table {
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+.uuu {
+    background-color: yellow;
+}
